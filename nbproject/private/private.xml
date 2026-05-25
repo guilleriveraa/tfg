@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/guill/Documents/NetBeansProjects/biblioteca/src/biblioteca/util/ConexionBD.java</file>
+            <file>file:/C:/Users/guill/Documents/NetBeansProjects/biblioteca/src/biblioteca/modelo/Libro.java</file>
+            <file>file:/C:/Users/guill/Documents/NetBeansProjects/biblioteca/src/biblioteca/modelo/Prestamo.java</file>
+            <file>file:/C:/Users/guill/Documents/NetBeansProjects/biblioteca/src/biblioteca/dao/ILibroDAO.java</file>
+            <file>file:/C:/Users/guill/Documents/NetBeansProjects/biblioteca/src/biblioteca/dao/LibroDAO.java</file>
+            <file>file:/C:/Users/guill/Documents/NetBeansProjects/biblioteca/src/biblioteca/dao/IPrestamoDAO.java</file>
+            <file>file:/C:/Users/guill/Documents/NetBeansProjects/biblioteca/src/biblioteca/dao/PrestamoDAO.java</file>
+            <file>file:/C:/Users/guill/Documents/NetBeansProjects/biblioteca/src/biblioteca/servicio/PrestamoService.java</file>
+            <file>file:/C:/Users/guill/Documents/NetBeansProjects/biblioteca/src/biblioteca/Main.java</file>
+            <file>file:/C:/Users/guill/Documents/NetBeansProjects/biblioteca/src/biblioteca/vista/VentanaPrincipal.java</file>
+            <file>file:/C:/Users/guill/Documents/NetBeansProjects/biblioteca/src/biblioteca/controlador/ControladorPrincipal.java</file>
+            <file>file:/C:/Users/guill/Documents/NetBeansProjects/biblioteca/src/biblioteca/vista/DialogoLibro.java</file>
+            <file>file:/C:/Users/guill/Documents/NetBeansProjects/biblioteca/src/biblioteca/vista/DialogoPrestamo.java</file>
+            <file>file:/C:/Users/guill/Documents/NetBeansProjects/biblioteca/src/biblioteca/vista/DialogoHistorial.java</file>
+            <file>file:/C:/Users/guill/Documents/NetBeansProjects/biblioteca/src/biblioteca/servicio/LibroService.java</file>
+            <file>file:/C:/Users/guill/Documents/NetBeansProjects/biblioteca/build.xml</file>
+            <file>file:/C:/Users/guill/Documents/NetBeansProjects/biblioteca/src/biblioteca/pruebas/PruebasSistema.java</file>
+        </group>
+    </open-files>
+</project-private>
